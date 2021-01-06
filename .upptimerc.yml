@@ -8,12 +8,6 @@ sites:
     url: https://junzhe.me
   - name: Where is Taipei
     url: https://whereistaipei.com
-  - name: Welt
-    url: https://welt.de
-  - name: Bild
-    url: https://bild.de
-  - name: Reddit
-    url: https://reddit.com
     
 
 status-website:
