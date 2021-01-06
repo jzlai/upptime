@@ -4,12 +4,17 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Personal site
+  - name: junzhe.me
     url: https://junzhe.me
   - name: Where is Taipei
     url: https://whereistaipei.com
   - name: Welt
     url: https://welt.de
+  - name: Bild
+    url: https://bild.de
+  - name: Reddit
+    url: https://reddit.com
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
