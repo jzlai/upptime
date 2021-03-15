@@ -22,7 +22,7 @@
     "url": "https://whereistaipei.com",
     "icon": "https://favicons.githubusercontent.com/whereistaipei.com",
     "slug": "where-is-taipei",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 133,
     "timeMonth": 410,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 0
+    }
   }
 ]
