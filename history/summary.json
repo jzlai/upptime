@@ -24,17 +24,16 @@
     "slug": "where-is-taipei",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 93,
     "timeWeek": 123,
     "timeMonth": 129,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-01-23": 3,
       "2021-03-15": 17
     }
   }
