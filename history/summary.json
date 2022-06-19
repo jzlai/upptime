@@ -22,19 +22,19 @@
     "url": "https://whereistaipei.com",
     "icon": "https://favicons.githubusercontent.com/whereistaipei.com",
     "slug": "where-is-taipei",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 181,
-    "timeWeek": 148,
-    "timeMonth": 182,
+    "timeDay": 137,
+    "timeWeek": 141,
+    "timeMonth": 179,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2022-06-19": 0
+      "2022-06-19": 18
     }
   }
 ]
