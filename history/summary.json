@@ -2,7 +2,7 @@
   {
     "name": "junzhe.me",
     "url": "https://junzhe.me",
-    "icon": "https://favicons.githubusercontent.com/junzhe.me",
+    "icon": "https://icons.duckduckgo.com/ip3/junzhe.me.ico",
     "slug": "junzhe-me",
     "status": "up",
     "uptime": "99.99%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 164,
-    "timeDay": 138,
-    "timeWeek": 154,
-    "timeMonth": 184,
+    "time": 165,
+    "timeDay": 182,
+    "timeWeek": 164,
+    "timeMonth": 181,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-09-15": 57,
@@ -23,7 +23,7 @@
   {
     "name": "Where is Taipei",
     "url": "https://whereistaipei.com",
-    "icon": "https://favicons.githubusercontent.com/whereistaipei.com",
+    "icon": "https://icons.duckduckgo.com/ip3/whereistaipei.com.ico",
     "slug": "where-is-taipei",
     "status": "up",
     "uptime": "100.00%",
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 52,
-    "timeWeek": 83,
-    "timeMonth": 126,
+    "timeDay": 224,
+    "timeWeek": 102,
+    "timeMonth": 129,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2022-06-19": 18
