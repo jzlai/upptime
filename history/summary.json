@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/junzhe.me.ico",
     "slug": "junzhe-me",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 196,
-    "timeWeek": 181,
+    "timeDay": 161,
+    "timeWeek": 188,
     "timeMonth": 174,
-    "timeYear": 178,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 73,
-    "timeWeek": 98,
-    "timeMonth": 104,
+    "timeDay": 115,
+    "timeWeek": 101,
+    "timeMonth": 101,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
