@@ -4,19 +4,19 @@
     "url": "https://junzhe.me",
     "icon": "https://icons.duckduckgo.com/ip3/junzhe.me.ico",
     "slug": "junzhe-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 136,
-    "timeWeek": 142,
-    "timeMonth": 458,
-    "timeYear": 206,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 214,
+    "timeDay": 3433,
+    "timeWeek": 966,
+    "timeMonth": 643,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 33
     }
   },
   {
