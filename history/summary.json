@@ -4,7 +4,7 @@
     "url": "https://junzhe.me",
     "icon": "https://icons.duckduckgo.com/ip3/junzhe.me.ico",
     "slug": "junzhe-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
@@ -13,9 +13,10 @@
     "time": 216,
     "timeDay": 369,
     "timeWeek": 254,
-    "timeMonth": 633,
+    "timeMonth": 443,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-09-14": 25,
       "2024-09-12": 66,
       "2024-09-06": 33
