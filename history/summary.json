@@ -28,7 +28,7 @@
     "url": "https://whereistaipei.com",
     "icon": "https://icons.duckduckgo.com/ip3/whereistaipei.com.ico",
     "slug": "where-is-taipei",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 148,
     "timeMonth": 141,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
